@@ -26,7 +26,7 @@ const App = () => {
             engage in genuine discussion.
           </p>
           <a href="#">
-            <button className="rounded-full bg-white px-20 py-2 text-violet shadow-xl md:py-4">
+            <button className="rounded-full bg-white px-20 py-2 text-violet shadow-xl transition ease-in-out hover:bg-softMagenta hover:text-white md:py-4">
               Register
             </button>
           </a>
