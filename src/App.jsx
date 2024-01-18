@@ -1,15 +1,10 @@
+import Nav from "./components/Nav";
 import SocialMedia from "./components/SocialMedia";
 
 const App = () => {
   return (
     <main className="flex h-svh w-full flex-col bg-mobile bg-contain bg-no-repeat p-10 md:bg-desktop md:bg-cover md:p-16">
-      <nav>
-        <img
-          className="h-9 w-max md:h-14"
-          src="/images/logo.svg"
-          alt="Huddle Logo"
-        />
-      </nav>
+      <Nav />
       <section className="flex h-full w-full flex-col items-center gap-16 pt-16 md:flex-row md:justify-between md:pt-24">
         <img
           className="h-max w-full"
