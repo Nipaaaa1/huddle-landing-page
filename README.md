@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Nipaaaa1/huddle-landing-page)
-- Live Site URL: [Netlify](https://github.com/Nipaaaa1/huddle-landing-page)
+- Live Site URL: [Netlify](https://loquacious-cocada-2a61a6.netlify.app/)
 
 ## My process
 
