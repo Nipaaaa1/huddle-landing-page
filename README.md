@@ -1,8 +1,52 @@
-# React + Vite
+# Frontend Mentor - Huddle landing page with single introductory section solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
+## Table of contents
 
-Currently, two official plugins are available:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the page depending on their device's screen size
+- See hover states for all interactive elements on the page
+
+### Screenshot
+
+![](./screenshot.png)
+
+### Links
+
+- Solution URL: [Github](https://github.com/Nipaaaa1/huddle-landing-page)
+- Live Site URL: [Netlify](https://github.com/Nipaaaa1/huddle-landing-page)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- [React](https://reactjs.org/) - JS library
+- [Tailwind CSS](https://tailwindcss.com/) - CSS Framework
+
+### What I learned
+
+Responsive is **Hard**. I know I've said it everytime but still, it is hard.
+
+### Continued development
+
+I want to take some challenges that have some JS in the future, so I could use React to it's fullest
+
+### Useful resources
+
+- [Tailwind CSS Docs](https://tailwindcss.com/docs/installation) - Helps a Lot.
