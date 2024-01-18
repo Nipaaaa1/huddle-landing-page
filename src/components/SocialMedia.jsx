@@ -1,6 +1,6 @@
 const SocialMedia = () => {
   return (
-    <footer className="flex gap-4 self-end">
+    <footer className="flex gap-4 self-center md:self-end">
       <a href="#">
         <svg
           className="size-8 rounded-full border-2 border-white fill-white p-2 transition ease-in-out hover:border-softMagenta hover:fill-softMagenta md:size-10"
